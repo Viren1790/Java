@@ -25,6 +25,23 @@ public class Notes {
 	 * Throgs keyword- will force the code to handle the method
 	 * file cretating
 	 * 
+	 * 
+	 * 
+	 * 
+	 * Day-14
+	 * 
+	 * java list
+	 * dynamic arraylist 
+	 * create java arrays list
+	 * 
+	 * How we can store link list in arrays
+	 * sequence thorw if we want the list list
+	 * 
+	 * 
+	 * Set-it does not following indexing as per list
+	 * it stores only unique values
+	 * there are three clesses-1hasset, 2-treeset, 3-linkedlist
+	 * sequance matter karat naei kase pan add hotat values
 	 */
 
 }
