@@ -42,6 +42,14 @@ public class Notes {
 	 * it stores only unique values
 	 * there are three clesses-1hasset, 2-treeset, 3-linkedlist
 	 * sequance matter karat naei kase pan add hotat values
+	 * 
+	 * 
+	 * 
+	 * Day15
+	 * Map-interface- store elements in pare format eg(int, string)
+	 * Hasmapp
+	 * TreeMap
+	 * LinkedHasMap
 	 */
 
 }
