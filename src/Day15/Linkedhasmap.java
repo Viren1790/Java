@@ -26,7 +26,7 @@ public class Linkedhasmap {
 			System.out.println("Key is:"+s+ " Values is:"+objlinkmap.get(s));
 		}
 		
-		System.out.println(objlinkmap.entrySet());
+		//System.out.println(objlinkmap.entrySet());
 		
 	}
 
