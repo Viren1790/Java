@@ -88,20 +88,35 @@ public class All {
 	
 	//6 check how much time "w" is present
 	
-		 String name = "hdyguyjgyuwwyhygww";
-	        char find = 'w';
-	        int count = 0;
+//		 String name = "hdyguyjgyuwwyhygww";
+//	        char find = 'w';
+//	        int count = 0;
+//
+//	        for(int i=0; i<name.length(); i++) 
+//	        {
+//	            if (name.charAt(i)==find) {
+//	                count++;
+//	            }
+//	        }
+//	        System.out.println("count of w:"+count);
+	        
+	        
+	        
+	        //7 count vovwel (a,e,i,0) //IMP
+		
+		 String name = " THIS IS SUCH A WONDERFUL DAY";
+       char find = 'w';
+        int count = 0;
 
-	        for (int i=0; i<name.length(); i++) 
+        for(int i=0; i<name.length(); i++) 
 	        {
-	            if (name.charAt(i)==find) {
-	                count++;
+            if (name.charAt(i)==find) {
+                count++;
 	            }
 	        }
-
 	        System.out.println("count of w:"+count);
+		
+		
 	    }
-	
-	
 	}
 
