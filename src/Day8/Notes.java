@@ -50,6 +50,25 @@ public class Notes {
 	 * Hasmapp
 	 * TreeMap
 	 * LinkedHasMap
+	 * 
+	 * 
+	 * 
+	 * Day16
+	 * Anyonimous-is a class without a name
+	 * -whatever methied write in anynimous class it can not used again
+	 * Enum-
+	 * 
+	 * 
+	 * 
+	 * Day17-IMP for selinium
+	 * fileinput-
+	 * Interview questions
+	 * Filescanner
+	 * WriteImagefile
+	 * Fileoutput
+	 * buffredReader
+	 * bufferedwriter
+	 * 
 	 */
 
 }

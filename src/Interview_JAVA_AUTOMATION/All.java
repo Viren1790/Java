@@ -101,6 +101,7 @@ public class All {
 //	        System.out.println("count of w:"+count);
 	        
 	        
+		
 	        
 	        //7 count vovwel (a,e,i,0) //IMP
 		

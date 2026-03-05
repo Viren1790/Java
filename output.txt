@@ -1,0 +1,6 @@
+Welcome to java selinium
+First test case executedWelcome to java selinium
+First test case executedAppend after adding true
+Welcome to java selinium
+First test case executed
+Append after adding true
