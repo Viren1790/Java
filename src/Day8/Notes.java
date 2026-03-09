@@ -74,6 +74,53 @@ public class Notes {
 	 * Revision-
 	 * 
 	 * 
+	 * 
+	 * 
+	 * Day 20 
+	 * Revision
+	 * 
+	 * constructor-same name as class name(Use to initilize class attributrs, On object we can add sparameter values)
+	 * 
+	 * this keyword- if class name and method variable name same-then we use this keyword so its call class varables.(this.vatablename)
+	 * 
+	 * modifiers- 
+	 * access modifiers- it control the acces the methods
+	 * public- on whole project we can call that object anywhere( to declare obj)
+	 * default- we dont need to declare-the code is only access on same package anywhere calss but not outside the class
+	 * private-access only in same class, it cannot be refer to class.
+	 * protected- 
+	 * 
+	 * Non access modifier
+	 * Final- we cannot change value if we declare final class, methos, varables.
+	 * Static- if we use it on method, then we do not need to create that class objects. 
+	 *just we can declare in main class like( methodname(); within the same class or same package but if its outside the package then we need to create on diffrent package)
+	 *  Abstract- the method dont have any values in their method that we called abstract method
+	 *  
+	 *  
+	 *    OOPS-Encapsulation
+	 *    useing set , get methods and creation their objectes we can use private details.
+	 *    
+	 *    
+	 *    Inheritance
+	 *    
+	 *- use ectends to access another class
+	 * interface if we want to use=use implemented
+	 * 
+	 * 
+	 * Polyimorphism
+	 * -Mehods parameter with diffrent name its allowed
+	 * -in one method their are 3 parameter then on obj we can call or add 3 values
+	 * 
+	 * 
+	 * Interface is 100 abstract class
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
+	 * 
 	 */
 
 }
